@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sudhanshu Gupta
 
 **Aspiring Software Developer | Mumbai, India**  
-📫 mail.sudhanshug@gmail.com | 📱 9653214585
+📫 mail.sudhanshug@gmail.com 
 
 ## 🌐 Connect with Me
 
